@@ -1,0 +1,314 @@
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\FileUploader.dll.config
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\FileUploader.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\FileUploader.pdb
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Antlr3.Runtime.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\EntityFramework.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\EntityFramework.SqlServer.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Newtonsoft.Json.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Owin.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\System.Web.Optimization.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\System.Web.Providers.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\WebGrease.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\System.Web.Optimization.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Antlr3.Runtime.pdb
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Newtonsoft.Json.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\EntityFramework.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\EntityFramework.SqlServer.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\obj\Debug\FileUploader.dll
+c:\users\bytecode\documents\visual studio 2013\Projects\FileUploader\FileUploader\obj\Debug\FileUploader.pdb
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\FileUploader.dll.config
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\FileUploader.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\FileUploader.pdb
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Antlr3.Runtime.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\EntityFramework.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\EntityFramework.SqlServer.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Newtonsoft.Json.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Owin.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\System.Web.Optimization.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\System.Web.Providers.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\WebGrease.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\System.Web.Optimization.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Antlr3.Runtime.pdb
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Newtonsoft.Json.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\EntityFramework.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\EntityFramework.SqlServer.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\obj\Debug\FileUploader.dll
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\obj\Debug\FileUploader.pdb
+C:\Users\Bytecode\Desktop\FileUploader\FileUploader\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
+F:\Projects\Mauro\FileUploader\FileUploader\bin\FileUploader.dll.config
+F:\Projects\Mauro\FileUploader\FileUploader\bin\FileUploader.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\FileUploader.pdb
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Antlr3.Runtime.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\AspNet.ScriptManager.jQuery.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\EntityFramework.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\EntityFramework.SqlServer.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Newtonsoft.Json.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Owin.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\System.Web.Optimization.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\System.Web.Providers.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\WebGrease.dll
+F:\Projects\Mauro\FileUploader\FileUploader\bin\System.Web.Optimization.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Antlr3.Runtime.pdb
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Newtonsoft.Json.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\EntityFramework.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\EntityFramework.SqlServer.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Projects\Mauro\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Projects\Mauro\FileUploader\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
+F:\Projects\Mauro\FileUploader\FileUploader\obj\Debug\FileUploader.dll
+F:\Projects\Mauro\FileUploader\FileUploader\obj\Debug\FileUploader.pdb
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\FileUploader.dll.config
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\FileUploader.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\FileUploader.pdb
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Antlr3.Runtime.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\AspNet.ScriptManager.jQuery.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\EntityFramework.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\EntityFramework.SqlServer.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Web.Infrastructure.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Newtonsoft.Json.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Owin.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\System.Web.Optimization.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\System.Web.Providers.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\WebGrease.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\System.Web.Optimization.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Antlr3.Runtime.pdb
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Newtonsoft.Json.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\EntityFramework.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\EntityFramework.SqlServer.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Neha\DemoProjects\FileUploader\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
+E:\Neha\DemoProjects\FileUploader\FileUploader\obj\Debug\FileUploader.dll
+E:\Neha\DemoProjects\FileUploader\FileUploader\obj\Debug\FileUploader.pdb
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\FileUploader.dll.config
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\FileUploader.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\FileUploader.pdb
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Antlr3.Runtime.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\AspNet.ScriptManager.jQuery.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\EntityFramework.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\EntityFramework.SqlServer.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\itextsharp.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Web.Infrastructure.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Newtonsoft.Json.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Owin.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\System.Web.Optimization.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\System.Web.Providers.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\WebGrease.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\itextsharp.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\System.Web.Optimization.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Antlr3.Runtime.pdb
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Newtonsoft.Json.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\EntityFramework.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\EntityFramework.SqlServer.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Google.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\obj\Debug\FileUploader.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\obj\Debug\FileUploader.pdb
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\System.Net.Http.Formatting.dll
+E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\System.Net.Http.Formatting.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.pdb
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\FileUploader.dll.config
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\FileUploader.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\FileUploader.pdb
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Antlr3.Runtime.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\AspNet.ScriptManager.jQuery.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\EntityFramework.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\EntityFramework.SqlServer.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\itextsharp.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Google.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Web.Infrastructure.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Newtonsoft.Json.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Owin.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\System.Net.Http.Formatting.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\System.Web.Optimization.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\System.Web.Providers.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\WebGrease.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\itextsharp.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Newtonsoft.Json.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\System.Net.Http.Formatting.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\System.Web.Optimization.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Antlr3.Runtime.pdb
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\EntityFramework.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\EntityFramework.SqlServer.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Google.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.OAuth.xml

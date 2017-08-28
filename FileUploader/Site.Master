@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="FileUploader.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+
+    <!-- styles -->
+    <link href="LoaderFiles/dist/css/p-loading.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.rawgit.com/tobiasahlin/SpinKit/master/css/spinkit.css">
+
+    <link href="fileuploader/src/jquery.fileuploader.css" rel="stylesheet" />
+    <link href="fileuploader/examples/drag-drop/css/jquery.fileuploader-theme-dragdrop.css" rel="stylesheet" />
+    <!-- js -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
+    <script src="fileuploader/src/jquery.fileuploader.js"></script>
+    <script src="fileuploader/examples/drag-drop/js/custom.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="fileuploader/bootbox.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.15/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.15/datatables.min.js"></script>
+    <script src="LoaderFiles/dist/js/p-loading.js"></script>
+    <script src="SpinnerLoaderWithText/assets/js/jquery.loading.block.js"></script>
+    
+    <script src="https://cdn.rawgit.com/joseshiru/pl-spinkit/master/src/js/pl-spinkit.js"></script>
+
+</head>
+<body class="square">
+    <form runat="server">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Application name</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/WebForm2">Second Loader</a></li>
+                    </ul>
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/Account/Register">Register</a></li>
+                                <li><a runat="server" href="~/Account/Login">Log in</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li>
+                                    <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                </li>
+                            </ul>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>
