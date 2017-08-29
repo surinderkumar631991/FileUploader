@@ -257,9 +257,6 @@ E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\obj\Debug\File
 E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
 E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\System.Net.Http.Formatting.dll
 E:\Neha\DemoProjects\FILE_UPLOADER_WORK\FileUploader\FileUploader\bin\System.Net.Http.Formatting.xml
-E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
-E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.dll
-E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.pdb
 E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\FileUploader.dll.config
 E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\FileUploader.dll
 E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\FileUploader.pdb
@@ -312,3 +309,6 @@ E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Secur
 E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\Neha\Projects\FileUploader\Working_Code\FileUploader\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.dll
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.pdb
+E:\Neha\Projects\FileUploader\Working_Code\FileUploader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache

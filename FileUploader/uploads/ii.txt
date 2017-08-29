@@ -1,0 +1,18 @@
+170130027-/workorder/details-Tenant’s subsite is unavailable after confirming their profile unless they log out and back in.
+Go to Users > Invitation
+Fill out required fields > Select tenant role > Select site to send it to > Send invite.
+
+Log in as tenant, 
+Enter a company name >  subsite and/or area > Confirm profile.
+Go to My Account > work order
+NOTE:
+The subsite and/or area im confirmed to does not show.
+Log out and back in > It now shows up and works perfect. (No matter what type of subsite it has.) 
+Issue happens when:
+Confirming a subsite with no areas. (subsites does not show  but everything works when logging out and back in.)
+Confirming a subsite with an area. (subsites does not show  but everything works when logging out and back in.)
+It looks like it somehow just needs to be refreshed and it works because logging out and back in works as expected.
+Watch both videos
+
+Acceptance criteria/expectation:
+It should show the subsite confirmed. Logging out and back in step should not be needed.

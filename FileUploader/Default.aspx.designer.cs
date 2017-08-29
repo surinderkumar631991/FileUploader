@@ -31,6 +31,15 @@ namespace FileUploader {
         protected global::System.Web.UI.WebControls.HiddenField setSize;
         
         /// <summary>
+        /// f_Names control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox f_Names;
+        
+        /// <summary>
         /// setExtensions_ control.
         /// </summary>
         /// <remarks>

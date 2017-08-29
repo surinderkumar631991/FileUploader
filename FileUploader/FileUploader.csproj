@@ -184,12 +184,13 @@
     <Content Include="fileuploader\examples\drag-drop\php\ajax_upload_file.php" />
     <Content Include="fileuploader\examples\drag-drop\uploads\.htaccess" />
     <Content Include="fileuploader\src\class.fileuploader.php" />
-    <Content Include="FileUploadHandler.ashx" />
+    <Content Include="FileAnalyseHandler.ashx" />
     <Content Include="RemoveFileHandler.ashx" />
     <Content Include="SpinnerLoaderWithText\assets\img\default.svg" />
     <Content Include="SpinnerLoaderWithText\assets\img\icon.gif" />
     <Content Include="SpinnerLoaderWithText\assets\js\jquery.loading.block.js" />
     <Content Include="WebForm2.aspx" />
+    <Content Include="FileUploadHandler.ashx" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -282,6 +283,9 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FileAnalyseHandler.ashx.cs">
+      <DependentUpon>FileAnalyseHandler.ashx</DependentUpon>
     </Compile>
     <Compile Include="FileUploadHandler.ashx.cs">
       <DependentUpon>FileUploadHandler.ashx</DependentUpon>
